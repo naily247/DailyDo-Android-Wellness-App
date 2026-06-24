@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DailyDo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="App_Name">Daily Do</string>
+    <string name="App_name_in_splash">Daily Do</string>
+    <string name="onboarding1_subtext">Monitor habits like meditation,walking, or hydration and visualize your progress in realtime.</string>
+    <string name="next">Next</string>
+    <string name="onboarding2_text">Track your emotions with emojis and see your wellness trends come to life..</string>
+    <string name="onboarding3_text">Visualize your wellness trends through smart charts that motivate you daily.</string>
+</resources>
+
+
+

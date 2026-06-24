@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated Android files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Signing files and secrets
+*.jks
+*.keystore
+keystore.properties
+
+# Native build files
+obj/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Firebase crash reporting
+firebaseCrashlytics/
+
+# Editor and AI workspace files
+.vscode/
+AGENTS.md
